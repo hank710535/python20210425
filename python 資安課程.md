@@ -17,10 +17,10 @@ def my_function():
 def sum_two_numbers(a, b):
     return a + b
 ```
-####### 範圍
+#######  範圍
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921range.png?raw=true)
 
-######## 16進制轉字母
+########   16進制轉字母
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921%E9%80%B2%E5%88%B6.png?raw=true)
 
 ########## 函式
