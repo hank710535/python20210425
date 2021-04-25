@@ -9,7 +9,7 @@
 #### 迴圈與終止
 ![](https://github.com/hank710535/python20210425/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921while.png?raw=true)
 
-###### 函式定義
+##### 函式定義
 ```
 def my_function():
     print("Hello From My Function!")
@@ -23,7 +23,7 @@ def sum_two_numbers(a, b):
 ########   16進制轉字母
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921%E9%80%B2%E5%88%B6.png?raw=true)
 
-########## 函式
+######### 函式
 ```
 def sum(i1, i2):
     result = 0
@@ -38,7 +38,7 @@ def main():
 
 main()
 ```
-########### 變數的有效範圍
+########## 變數的有效範圍
 ```
 x = 111
 
@@ -62,9 +62,9 @@ increase()
 increase()
 print(x)
 ```
-############# 在pwn開python script
+############ 在pwn開python script
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921%E9%96%8Bscript2.png?raw=true)
-############## 解題紀錄
+############# 解題紀錄
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921score.png?raw=true)
 ![](https://github.com/hank710535/HappyPythonDay/blob/main/%E8%A8%BB%E8%A7%A3%202021-04-25%20141921score2.png?raw=true)
 
